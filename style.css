@@ -725,3 +725,21 @@ nav button:hover,
     font-weight:600;
 
 }
+
+/* FINAL IMAGE SIZE OVERRIDE */
+
+.hero-left h1{
+    font-size:3.3rem !important;
+}
+
+.card{
+    min-height:180px !important;
+}
+
+.tall{
+    min-height:280px !important;
+}
+
+.wide{
+    min-height:160px !important;
+}
